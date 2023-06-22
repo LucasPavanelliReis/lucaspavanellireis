@@ -7,7 +7,7 @@
 </div><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspavanellireis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Mateus Iago github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspavanellireis&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspavanellireis&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
 
